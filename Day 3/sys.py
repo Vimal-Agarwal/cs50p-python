@@ -1,4 +1,4 @@
-# 3. sys library
+# 3. sys library // this is command-line argument library
 import sys
 
 """
