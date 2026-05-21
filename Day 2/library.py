@@ -21,3 +21,4 @@ import statistics
 print(statistics.mean([100,90]))
 print(statistics.median([100,5]))
 print(statistics.harmonic_mean([100, 5]))
+
