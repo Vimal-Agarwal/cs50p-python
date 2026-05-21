@@ -1,3 +1,4 @@
+# exception handling
 try:
     x=int(input("enter the x: "))
 except ValueError:
